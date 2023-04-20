@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MkBundleExtractor", "MkBundleExtractor.csproj", "{7887442E-8205-4137-954B-A3A64FB41AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7887442E-8205-4137-954B-A3A64FB41AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7887442E-8205-4137-954B-A3A64FB41AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7887442E-8205-4137-954B-A3A64FB41AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7887442E-8205-4137-954B-A3A64FB41AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59BF761-512E-4815-9B6F-A59ACA4DFBBE}
+	EndGlobalSection
+EndGlobal
